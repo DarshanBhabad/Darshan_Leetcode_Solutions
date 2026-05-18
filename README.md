@@ -18,12 +18,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
