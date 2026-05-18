@@ -34,7 +34,9 @@ TreeNode* preorder(TreeNode* root){
     // l->right=r;
     // root->left=NULL;
     // l->left=NULL;
-    // r->left=NULL;
+    // r->left=NULL;  
+    //with these i was loosing  like 2->3->4 but when i do l->right=r i.e 2->right=5 i was loosing the access to 3 and 4 so i have to make sure i traverse to end of 2 (using temp) and then only connect its right to r 
+
 
 
     }
