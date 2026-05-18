@@ -54,3 +54,21 @@ TreeNode* preorder(TreeNode* root){
         
     }
 };
+
+//OR Shraddha MAM
+// TreeNode* nextright=NULL; //to track previously visited node so that we can add it to curr nodes right
+// void flatten(TreeNode* root) {
+//         if(root==NULL) return;
+         
+//          flatten(root->right) //convert right part to LL
+//           flatten(root->left)
+//           root->left=NULL;
+//           root->right=nextright;
+//            root = nextright ;
+//            return;
+
+
+
+        
+//     }
+// };
