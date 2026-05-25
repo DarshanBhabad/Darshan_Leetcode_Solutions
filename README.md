@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
