@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
