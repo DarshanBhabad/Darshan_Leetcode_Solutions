@@ -34,4 +34,35 @@ void inorder(TreeNode* root){
         return mindiff;
         
     }
+
+    //Option 2 
+    // void inorder(TreeNode* root,vector<int> &ans)
+    // {
+    //    if(root==NULL)   return ;
+    
+    //    inorder(root->left, ans);
+    //    ans.push_back(root->val);
+    //    inorder(root->right, ans);
+
+    // }
+
+    // int minDiffInBST(TreeNode* root) 
+    // {
+    //     vector<int>ans;
+    //     inorder(root,ans);
+
+    //     int minDiff=abs(ans[1]-ans[0]);
+
+    //     for(int i=0;i<ans.size()-1;i++)
+    //     {
+    //         int diff=abs(ans[i+1]-ans[i]);
+
+    //         if(diff < minDiff)
+    //         {
+    //             minDiff=diff;
+    //         }
+
+    //     }
+
+    //     return minDiff;
 };
