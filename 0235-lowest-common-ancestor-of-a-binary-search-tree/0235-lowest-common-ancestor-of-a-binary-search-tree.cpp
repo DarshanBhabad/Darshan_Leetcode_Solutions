@@ -25,7 +25,7 @@ public:
     // else
     // return r;
 
-   // APPROACH 2
+   // APPROACH 2  ... ONLY for BST 1st one is for BT , BST
    if(root ==NULL) return NULL;
    if(root->val>p->val && root->val > q->val) //left subtree has p and q
    return lowestCommonAncestor( root->left,  p,  q);
