@@ -54,6 +54,36 @@ public:
 }
 
 return NULL;
+
+// SAME USING SIMPLE WAY BY USING FOR EACH LOOP
+// unordered_map<int, TreeNode*> s;
+// unordered_set<int> child;
+
+// for(auto &d : descriptions){
+//     int parent = d[0];
+//     int ch = d[1];
+//     int isLeft = d[2];
+
+//     child.insert(ch);
+
+//     if(s.find(parent) == s.end())
+//         s[parent] = new TreeNode(parent);
+
+//     if(s.find(ch) == s.end())
+//         s[ch] = new TreeNode(ch);
+
+//     if(isLeft)
+//         s[parent]->left = s[ch];
+//     else
+//         s[parent]->right = s[ch];
+// }
+
+// for(auto &it : s){
+//     if(child.find(it.first) == child.end())
+//         return it.second;
+// }
+
+// return nullptr;
         
     }
 };
