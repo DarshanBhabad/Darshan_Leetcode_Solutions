@@ -2,14 +2,7 @@ class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
         int n=nums.size();
-    //     int st=-1;
-    //     for(int i=0;i<n;i++ ){
-    //         if(nums[i]<pivot){
-    //             st++;
-    //            swap(nums[i],nums[st]);
-    //         }
-    //     }
-    //    // if(nums[i]>pivot) swap(nums[i],nums[n-1]); //when i=j at that setp
+   
 
     vector<int>s;
     vector<int>g;
@@ -34,5 +27,25 @@ int m=s.size();
 
         
         return nums;
-    }
+
+
+        //2nd approach but we directly return ans array SC   decreases 
+        //   vector<int>ans ;
+        // for(auto x : nums)
+        // {
+        //     if(x < pivot)
+        //     ans.push_back(x);
+        // }
+        // for(auto x : nums)
+        // {
+        //     if(x == pivot)
+        //     ans.push_back(x);
+        // }
+        // for(auto x : nums)
+        // {
+        //     if(x >pivot)
+        //     ans.push_back(x);
+        // }
+        // return ans;
+        }
 };
