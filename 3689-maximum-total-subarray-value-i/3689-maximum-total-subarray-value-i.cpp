@@ -22,6 +22,12 @@ public:
                 min_e=min(min_e,nums[i]);
             }
             curr_val=1LL*(max_e-min_e)*k;
+            //1LL long long castinng reason 
+            //max_e = 1000000000;
+          //min_e = -1000000000;
+            //k = 100000;     the //(max_e - min_e) = 2000000000   ...   2000000000 * 100000 = 200000000000000
+            //doent fit in int so value casted to long long curr_val = (long long)(max_e - min_e) * k;
+
             total_val=max(total_val,curr_val);
 
 
