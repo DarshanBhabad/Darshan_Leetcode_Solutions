@@ -33,5 +33,13 @@ public:
 
         }
         return total_val;
+
+
+
+        //APPROACH 2 INBUILT FUNCTIONS 
+        // int a = *max_element(nums.begin(), nums.end());
+        // int b = *min_element(nums.begin(), nums.end());
+        // return 1LL * (a - b) * k;   // as in some subarray there will be min ele of array an dmax of array 
+        // which will maximize (min-max)*K  so it will be ans
     }
 };
