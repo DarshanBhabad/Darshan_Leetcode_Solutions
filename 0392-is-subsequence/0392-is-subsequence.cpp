@@ -14,6 +14,6 @@ public:
 
             } 
         }
-         return cnt == s.size();
+         return cnt == s.size();   //or no need to compare with cnt just compare with j
     }
 };
