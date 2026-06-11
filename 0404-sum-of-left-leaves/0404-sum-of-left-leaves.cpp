@@ -25,5 +25,24 @@ public:
 
 
         return sum;
+
+        //APPROACH 2
+//         class Solution {
+// public:
+//     int dfs(TreeNode* root, bool isLeft) {
+//         if (root == NULL) return 0;
+
+//         if (root->left == NULL && root->right == NULL) {
+//             return isLeft ? root->val : 0;
+//         }
+
+//         return dfs(root->left, true) + dfs(root->right, false);
+//     }
+
+//     int sumOfLeftLeaves(TreeNode* root) {
+//         return dfs(root, false);
+//     }
+// };
+
     }
 };
