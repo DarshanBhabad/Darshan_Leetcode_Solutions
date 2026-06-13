@@ -11,7 +11,10 @@ public:
             sum+=weights[(c-'a')];
          }
         sum=sum % 26;
-        ans+=('z'-sum);
+        ans+=('z'-sum); 
+        // Since 114 fits in a char, C++ implicitly converts it:
+        // 114  --->  char(114)
+        // and char(114) is 'r' according to the ASCII table.
         
 
 
