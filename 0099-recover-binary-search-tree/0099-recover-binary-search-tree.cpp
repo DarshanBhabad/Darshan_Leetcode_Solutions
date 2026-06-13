@@ -41,5 +41,10 @@ void inorder(TreeNode* root,vector<TreeNode*>&ino)
         }
     swap(n1->val,n2->val);
         
+
+
+        //APPROCH 2 TC=o(n) but sc=O(n) ===> morris inorder traversal for inorder func
+        //also that n1 and n2 work we can do that in inorder func call only so that we dont have to use 
+        // for loop again
     }
 };
