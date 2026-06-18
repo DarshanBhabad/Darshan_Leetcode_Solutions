@@ -36,7 +36,7 @@ Node* levelo(Node* root){
           
            if(prev) prev->next=NULL;
            prev=NULL;   //for next level set prev to NULL
-            if(!q.empty()){
+            if(!q.empty()){   //if quue does have already some elements in it then only push NULL to seperate them from next level  otherwise we cant push NULL at queue's front...
                  
                 q.push(NULL); // TO push NULL before putting next level ele in queue
                 
