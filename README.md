@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
