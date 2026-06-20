@@ -47,6 +47,32 @@ public:
        return nextptr+1<v.size(); //we dont have to update nextptr just check
         
     }
+
+// USING STACK
+//     class BSTIterator {
+//     private: stack<TreeNode*> mystack;
+// public:
+//     BSTIterator(TreeNode* root) {
+//         pushAll(root);
+//     }
+    
+//     int next() {
+//         TreeNode* top=mystack.top();
+//         mystack.pop();
+//         if(top->right) pushAll(top->right);
+//         return top->val;
+//     }
+    
+//     bool hasNext() {
+//         return !mystack.empty();
+//     }
+//     void pushAll(TreeNode* root){ //TC O(h) ht
+//         while(root){
+//             mystack.push(root);
+//             root=root->left;
+//         }
+//     }
+// };
 };
 
 /**
