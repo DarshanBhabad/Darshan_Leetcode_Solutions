@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -227,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
