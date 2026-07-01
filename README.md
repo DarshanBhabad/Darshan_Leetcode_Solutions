@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
