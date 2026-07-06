@@ -28,6 +28,32 @@ public:
 
     
 return ans.size();
+
+
+//  Sc=O(1)
+// class Solution {
+// public:
+//     int removeCoveredIntervals(vector<vector<int>>& intervals) {
+//         sort(intervals.begin(), intervals.end(), [](const auto& a, const auto& b) {
+//             if (a[0] == b[0]) {
+//                 return a[1] > b[1];
+//             }
+//             return a[0] < b[0];
+//         });
+
+//         int ans = 0;
+//         int maxEnd = -1;
+
+//         for (const auto& in : intervals) {  //for each interval
+//             if (in[1] > maxEnd) { //check end time [1,4] [1,5] sorting already put [1,5] 1st so [1,4] covered by it
+//                 ans++;
+//                 maxEnd = in[1];
+//             }
+//         }
+
+//         return ans;
+//     }
+// };
         
     }
 };
