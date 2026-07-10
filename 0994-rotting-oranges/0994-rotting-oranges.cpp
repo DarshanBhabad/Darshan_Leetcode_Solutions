@@ -18,7 +18,7 @@ int orangesRotting(vector<vector<int>>& grid) {
             }
         }
 
-        while(!q.empty() && fresh){
+        while(!q.empty() && fresh){  //fresh acts as bool in cpp 0 treated as false and any non-zero -1,1 treated as true
             int sz = q.size();
 
             while(sz--){ //check all older before newly infected  as for current minute
