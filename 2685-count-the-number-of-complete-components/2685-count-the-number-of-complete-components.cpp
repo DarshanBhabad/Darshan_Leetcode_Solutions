@@ -39,6 +39,7 @@ return ;
                 bool complete = true;
 
                 // every node must connect to other k-1 nodes
+                //each node in the current component must have k-1 nodes as neighbours 
                 for (int node : component) {
                     if (v[node].size() != k - 1) {
                         complete = false;
