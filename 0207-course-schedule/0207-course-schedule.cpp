@@ -40,6 +40,37 @@ vector<bool> recpath(numCourses, false); //declared once becoz  it automatically
 
             }
         }
-return true;      
+return true; 
+
+
+// BFS TOPOLOGICAL SORT : cycle detection in directe dgraphs : Kahn's algo
+// class Solution {
+// public:
+//     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+//         vector<int>inDegree(numCourses,0);
+//         vector<vector<int>>adj(numCourses);
+//         for(int i=0;i<prerequisites.size();i++){
+//             adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
+//             inDegree[prerequisites[i][0]]++;
+//         }
+//         queue<int>q;
+//         for(int i=0;i<numCourses;i++){
+//             if(inDegree[i]==0)
+//             q.push(i);
+//         }
+//         int cnt=0;
+//         while(!q.empty()){
+//             auto node=q.front();
+//             q.pop();
+//             cnt++;
+//             for(auto it:adj[node]){
+//                 inDegree[it]--;
+//                 if(inDegree[it]==0) q.push(it);
+//             }
+//         }
+//         if(cnt==numCourses) return true;
+//         else return false;
+//     }
+// };
     }
 };
