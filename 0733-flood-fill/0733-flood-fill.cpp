@@ -1,5 +1,6 @@
 class Solution {
 public:
+// DFS TC= O(m*n ) no visite used
     int m, n;
 
     bool check(int i, int j, int e, vector<vector<int>>& image) {
@@ -44,14 +45,44 @@ public:
     }
 };
 
-
+// USING BFS
+// class Solution {
+// public:
+//     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+//         int col = image[sr][sc];
+//         if (col==color) return image;
+//         int m = image.size();
+//         int n = image[0].size();
+//         queue<pair<int,int>> q;
+//         image[sr][sc]=color;
+//         q.push({sr,sc});
+//         int dx[4]={-1,+1,0,0};
+//         int dy[4]={0,0,-1,+1};
+//         while (!q.empty()) {
+//             int k = q.size(); // just the current iterations or current set of neighbous will be processed
+//             for (int i=0;i<k;i++) {
+//                 int x = q.front().first;
+//                 int y = q.front().second;
+//                 q.pop();
+//                 for (int j=0;j<4;j++) {
+//                     int nx=x+dx[j];
+//                     int ny=y+dy[j];
+//                     if (nx>=m || nx<0 || ny>=n || ny<0 || image[nx][ny]!=col) continue;
+//                     image[nx][ny]=color;
+//                     q.push({nx,ny});
+//                 }
+//             }
+//         }
+//         return image;
+//     }
+// };
 
 // BOTH TC = O(m*n);
 
 
 
 
-              //my solution 
+              //my solution  DFS
 
 // class Solution {
 // public:
