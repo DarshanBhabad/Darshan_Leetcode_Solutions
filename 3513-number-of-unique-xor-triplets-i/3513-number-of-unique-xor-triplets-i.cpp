@@ -3,6 +3,9 @@ public:
     int uniqueXorTriplets(vector<int>& nums) {
 
 // O(1) (the loop runs at most about 17 times since n ≤ 10^5)
+//xor same bits 0 0 & 1 1 =0  othrwise 1 also a^0=a 
+
+
 
 // n = 4
 
@@ -45,12 +48,13 @@ public:
 
         if (n < 3)
             return n;
-
-        int bits = 0;
+// for n>3  unique xors will be smallest power of 2 greater than n it is a pattern
+        int bits = 0; // binary 0000
+      //  the smallest power of 2 i.e(2^0,2^1,@^2....)greater than n using the left shift operator (<<).
         while ((1 << bits) <= n)
-            bits++;
+            bits++; // if bits =1  << will change 
 
-        return 1 << bits;
+        return 1 << bits; //= 2^bits
 
 
         //O(n3)
