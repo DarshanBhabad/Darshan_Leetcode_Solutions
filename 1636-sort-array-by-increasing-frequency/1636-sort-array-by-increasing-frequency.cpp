@@ -29,5 +29,28 @@ public:
                     
 
       return ans;  
+
+
+// APPROACH 2 custom sort and map tc=n(logn)
+// class Solution {
+// public:
+//     vector<int> frequencySort(vector<int>& nums) {
+//         unordered_map<int, int> freq;
+//         for (int num : nums) {
+//             freq[num]++;
+//         }
+
+//         sort(nums.begin(), nums.end(), [&](int a, int b) { //custom sort considering freq 
+//             if (freq[a] == freq[b]) {  // for tie-breaking cond'n 
+//                 return a > b; //one who is bigger comes first
+//             }
+//             return freq[a] < freq[b];  //else one who has smaller freq comes first
+//         });
+
+//         return nums;
+//     }
+// };
+
+      
     }
 };
