@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
