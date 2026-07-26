@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
