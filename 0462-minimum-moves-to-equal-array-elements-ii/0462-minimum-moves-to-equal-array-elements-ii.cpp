@@ -20,5 +20,17 @@ int n=nums.size();
             ans+=nums[j]-nums[mid];
         }
         return ans;
+
+        // or instead using 2 loops just use abs value
+        // sort(nums.begin(), nums.end());
+
+        // int median = nums[nums.size() / 2];
+
+        // int moves = 0;
+
+        // for (int num : nums)
+        //     moves += abs(num - median);
+
+        // return moves;
     }
 };
