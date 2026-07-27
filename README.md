@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
