@@ -1,6 +1,10 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
+// TC General case: O(n log k) logn tc of insertion /upfdate in map
+//if there are only Lowercase English letters: O(n)
+
+
         int n=s.size();
        // if(n==1) return s;
        map<char,int>m;  //stores charcters lexo a,b,c .. keys    
