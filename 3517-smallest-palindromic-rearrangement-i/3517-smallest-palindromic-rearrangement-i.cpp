@@ -45,5 +45,38 @@ string firsthalf= ans;
     ans+=firsthalf[i];
   }
   return ans;
+
+
+  // APPROACH 2 no logn 
+//    string smallestPalindrome(string s) {
+//         if (s.length() == 1) return s;
+        
+//         vector<int> frequency(26, 0);
+//         for (char c : s) frequency[c - 'a']++;
+
+//         int left = 0, right = s.length() - 1;
+//buliding from end and st simultaneously as it is palindromic
+//         for (int i = 0; i < 26; i++) {
+//             while (frequency[i] >= 2) {
+//                 s[left] = i + 'a';
+//                 s[right] = i + 'a';
+//                 left++;
+//                 right--;
+//                 frequency[i] -= 2; 
+//             }
+//         }
+        // odd count then that extra odd should be added at the updated left 
+//         if (s.length() % 2 != 0) {
+//             for (int i = 0; i < 26; i++) {
+//                 if (frequency[i] == 1) {
+//                     s[left] = i + 'a';
+//                     break;
+//                 }
+//             }
+//         }
+
+//         return s;
+//     }
+// };
     }
 };
