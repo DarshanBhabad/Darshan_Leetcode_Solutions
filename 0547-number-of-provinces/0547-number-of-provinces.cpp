@@ -1,4 +1,5 @@
 class DSU{
+    //O(N² α(N)) === N2 for outer 2 for loops and find takes amortized α(N)
     public:
     vector<int>parent;
     vector<int>rank;
