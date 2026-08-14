@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
