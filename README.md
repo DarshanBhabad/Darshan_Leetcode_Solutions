@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
