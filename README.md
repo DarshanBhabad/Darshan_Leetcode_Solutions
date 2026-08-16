@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -466,4 +469,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
