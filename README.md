@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Recursion
