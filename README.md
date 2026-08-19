@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## String
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
