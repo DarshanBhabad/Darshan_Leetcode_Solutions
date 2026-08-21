@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
