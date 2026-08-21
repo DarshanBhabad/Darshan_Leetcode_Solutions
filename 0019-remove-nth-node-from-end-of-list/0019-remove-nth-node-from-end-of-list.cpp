@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         //TC= O(n)  sc=O(1)
-        //nth node from start is total_nodes-n+1 th node from start
+        //nth node from end is total_nodes-n+1 th node from start
 
         ListNode* temp = head;
         int tcnt=0;
