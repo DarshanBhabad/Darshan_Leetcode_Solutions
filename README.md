@@ -509,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
