@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
