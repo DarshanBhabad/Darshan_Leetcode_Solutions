@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
