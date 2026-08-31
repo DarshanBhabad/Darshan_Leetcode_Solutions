@@ -15,6 +15,7 @@ public:
         int c=0;
         ListNode* temp=head;
         ListNode* prev=NULL;
+        //find all critical points put them in array
         while(temp!=NULL){
             c++;
             if(prev!=NULL && temp->next!=NULL){
@@ -24,12 +25,13 @@ public:
             temp=temp->next;
 
         }
-
+   //we told to output mxd and mnd fron 2 distinct cp , if less than 2 output {-1,-1}
         if(d.size()<2) return {-1,-1};
-
+//else
         int mxd=0;
         int mnd=INT_MAX;
-        mxd=d.back()-d[0];
+        mxd=d.back()-d[0];  //difference betn farthest ctp from 1st
+        // and mnd is min dist betn adjacent
 
         for(int i=1;i<d.size();i++){
               mnd=min(mnd,d[i]-d[i-1]);
