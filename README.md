@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
