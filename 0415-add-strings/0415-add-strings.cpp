@@ -17,7 +17,7 @@ public:
             if (j >= 0)
                 sum += num2[j--] - '0';
 
-            ans += (sum % 10) + '0';  // % gives last digit
+            ans += (sum % 10) + '0'; // add as a string  // % gives last digit
             carry = sum / 10;   // / removes last digit  
         }
 
