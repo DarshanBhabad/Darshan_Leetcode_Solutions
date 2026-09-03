@@ -28,6 +28,6 @@ public:
 
         }
 
-        return true; //all evens /all odds
+        return true; //all evens //all odds
     }
 };
