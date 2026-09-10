@@ -19,6 +19,7 @@ int getavg(TreeNode* root,int & acnt,int & ncnt){
     //refresh nodes cnt for each node
      int lcnt=0;//left nodes cnt
      int rcnt=0;//right nodes cnt
+     // in lcnt and rcnt each node will kepp adding itself 
     
     int lsum=getavg(root->left,acnt,lcnt);//current node pass cnt as 0; i.e lcnt
     //now nodes below it lcnt becomes ncnt for them
