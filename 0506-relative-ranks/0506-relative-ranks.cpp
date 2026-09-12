@@ -18,5 +18,36 @@ public:
 
         }
 return v;
+
+//using priority queue
+//max heap
+// class Solution {
+// public:
+//     vector<string> findRelativeRanks(vector<int>& score) {
+//         vector<string> res(score.size());
+//         std::priority_queue<pair<int, int>> maxHeap;
+//         for (int i = 0; i < score.size(); i++){
+//             maxHeap.push({score[i], i});
+//         }
+//         int r = 1;
+//         while (!maxHeap.empty()){
+//             auto [sc, idx] = maxHeap.top();
+//             maxHeap.pop();
+//             if (r == 1){
+//                 res[idx] = "Gold Medal";
+//             }else if (r == 2) {
+//                 res[idx] = "Silver Medal";
+//             }
+//             else if (r == 3){
+//                 res[idx] = "Bronze Medal";
+//             }
+//             else {
+//                 res[idx] = to_string(r);
+//             }
+//             r++;
+//         }
+//         return res;
+//     }
+// };
             }
 };
