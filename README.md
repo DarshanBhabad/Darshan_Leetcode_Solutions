@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
