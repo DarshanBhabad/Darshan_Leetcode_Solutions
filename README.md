@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -570,4 +572,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
