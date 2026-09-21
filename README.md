@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -599,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
