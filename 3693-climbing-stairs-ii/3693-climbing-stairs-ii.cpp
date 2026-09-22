@@ -16,6 +16,32 @@ public:
               dp[i]=min(dp[i],dp[i-3]+costs[i-1]+9);
           }
 
+          //or 
+
+        // vector<int> dp(n + 1, 0);
+
+        // dp[0] = 0;
+
+        // if(n >= 1)
+        //     dp[1] = costs[0] + 1;
+
+        // if(n >= 2) // 2 ways 1+1 or direct 2 steps at a time 
+        //     dp[2] = min(
+        //         costs[1] + 4,
+        //         dp[1] + costs[1] + 1
+        //     );
+
+        // for(int i = 3; i <= n; i++) {
+
+        //     dp[i] = min({
+        //         dp[i-1] + costs[i-1] + 1,
+        //         dp[i-2] + costs[i-1] + 4,
+        //         dp[i-3] + costs[i-1] + 9
+        //     });
+        // }
+
+        // return dp[n];
+
 
 return dp[n];
 
