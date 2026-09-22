@@ -31,16 +31,16 @@ return dp[n];
 //         class Solution {
 // public:
 
-// int getcnt(int i, int n,vector<int>& dp){
-//     if(i==n) {
-//         return 1;
+// int getcnt( int n,vector<int>& dp){
+//     if(n==1 || n==2) {
+//         return n; // n=1 only one way n=2 to reach here 2 ways 1-1 or jsut 2 step at a time
 //     }
-//     if(i>n) return 0;
+//     
 //     if(dp[i]!=0 ) return dp[i];
 //     //at each step it will have 2 choices climb 2 steps or climb 1step
-//     int one=getcnt(i+1,n,dp);
-//     int two=getcnt(i+2,n,dp);
-//     return dp[i]=one+two;
+
+//     return dp[n]=getcnt(n-1,dp)+getcnt(n-2,dp);  
+//getcnt(n-2,dp) will give ways to reach n-2 now from n-2 we have two ways but one of them alredy covered in n-1 so just one 2 size step at time so 1*getcnt(n-2,dp); 
 
 // }
 //     int climbStairs(int n) {
@@ -48,7 +48,7 @@ return dp[n];
 //         vector<int>dp(n+1,0); //as 
         
         
-//         return getcnt(0,n,dp);
+//         return getcnt(n,dp);
         
 //     }
 // };
