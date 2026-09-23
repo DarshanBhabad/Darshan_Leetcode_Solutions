@@ -9,6 +9,9 @@ public:
 
         }
         int ans=0;
+        //TC
+        // Total: O(n+k)=O(n), since k≤n.
+        //sc  O(k)
        
     for(auto p:freq){
          int v = p.second;
