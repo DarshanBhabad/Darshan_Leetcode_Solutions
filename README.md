@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2363-merge-similar-items](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2363-merge-similar-items](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
