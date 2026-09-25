@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0403-frog-jump](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0506-relative-ranks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0403-frog-jump](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0509-fibonacci-number](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
