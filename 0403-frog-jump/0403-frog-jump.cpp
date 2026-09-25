@@ -2,7 +2,9 @@ class Solution {
 public:
 
 bool checkfrog(int k,int st,vector<int>& stones,int &last,set<int>& s,  map<pair<int,int>, bool>&dp){
-    
+    //TC = TC = O(N² log N)  .. N2 states (st,k) and find function of map logn2 =logn
+    // in the worst case, each of the N stones could have up to N different possible jump sizes. i.e k=N2
+    //sc memoization max n2 states so O(n2)
     //bc
     if(k<=0) return false ; //jump not possible // jump can be -ve
     if(st+k==last) return true;// reached last stone
