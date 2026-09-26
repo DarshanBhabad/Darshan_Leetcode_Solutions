@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2055-plates-between-candles](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2055-plates-between-candles/) | Medium |
