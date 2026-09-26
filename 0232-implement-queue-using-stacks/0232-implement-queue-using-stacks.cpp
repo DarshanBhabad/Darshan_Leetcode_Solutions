@@ -2,6 +2,7 @@ class MyQueue {
 public:
  stack<int>s1;
  stack<int>s2;
+ //maintain s2 as queue
     MyQueue() {
          
 
