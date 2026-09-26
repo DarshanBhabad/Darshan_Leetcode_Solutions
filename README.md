@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -644,4 +647,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
