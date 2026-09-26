@@ -2,12 +2,14 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string,string>m;
+        //tc = O(O(n + K))  // siz of stroing and size of knowledge ans also find takes O(1);
         for(auto &k:knowledge){
             m[k[0]]=k[1];
         }
 int n=s.size();
 string ans="";
 string temp="";
+
         for(int i=0;i<n;i++){
             
 
