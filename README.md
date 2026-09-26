@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
+| [0344-reverse-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0832-flipping-an-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0344-reverse-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
