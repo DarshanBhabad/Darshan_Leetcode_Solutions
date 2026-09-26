@@ -4,7 +4,7 @@ public:
 
     MyStack() {
     }
-
+//maintain Q1 as stack always
     void push(int x) {
         while (!q1.empty()) {
             q2.push(q1.front());
