@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
@@ -640,5 +642,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
