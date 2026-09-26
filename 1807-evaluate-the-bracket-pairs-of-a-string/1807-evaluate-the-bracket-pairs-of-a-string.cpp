@@ -20,7 +20,7 @@ string temp="";
                    i++;
                 }
                 if(m.find(temp)==m.end()) ans.push_back('?');
-                else ans+=(m[temp]);
+                else ans+=(m[temp]); //push_back only for charcters and += string also get pushed
             }
             else{
                 ans.push_back(s[i]);
