@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -659,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
