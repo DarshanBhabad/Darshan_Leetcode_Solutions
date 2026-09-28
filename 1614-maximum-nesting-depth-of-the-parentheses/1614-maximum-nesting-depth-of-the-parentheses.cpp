@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++){
               if(s[i]=='('){
                 st.push(s[i]);
-                if(tcnt>=1) tcnt--; //they are at same level so reset likein ex 3
+                if(tcnt>=1) tcnt--; //they are at same level so count only onr of them so we reduce tcnt each time to amintain it to one //so alredy counted of same lvel will  be removed/reduced and only current one will be holded /added
               }
               else if(s[i]==')'){
                    
