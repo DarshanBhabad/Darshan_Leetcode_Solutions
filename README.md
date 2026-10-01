@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -607,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2363-merge-similar-items](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
