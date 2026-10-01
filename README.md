@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
