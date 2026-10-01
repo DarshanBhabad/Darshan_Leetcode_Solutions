@@ -8,7 +8,7 @@ public:
                 st.pop();
                 
             }
-            else if(s[i]==']'&& !st.empty() && st.top()=='[' ){
+            else if(s[i]==']'&& !st.empty() && st.top()=='[' ){ //we can scheck st.top only whne st not empty
                 st.pop();
                 
             }
