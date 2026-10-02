@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -686,7 +688,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
