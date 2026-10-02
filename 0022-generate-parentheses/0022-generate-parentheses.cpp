@@ -15,6 +15,9 @@ void generate(int open , int close, int n, string s,vector<string>& ans){
     vector<string> generateParenthesis(int n) {
         //recursive approach
         // The recursion does not generate every possible string and then check it. It prevents invalid strings from being generated in the first place using close < open.
+        //at each step we jhave option either we close or open 
+        // we can intoduce open only when <n ansd close only when close<open 
+        // if close> current open then will give invalid string
         vector<string>ans;
         generate(0,0,n,"",ans);
         return ans;
