@@ -3,7 +3,7 @@ public:
     int longestValidParentheses(string s) {
         int ans = 0;
         int n = s.size();
-
+//TC=O(n) SC=O(n)
         stack<int> st;
         st.push(-1);
         // only to calculate 1st ()
