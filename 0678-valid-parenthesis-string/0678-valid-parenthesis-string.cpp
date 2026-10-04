@@ -1,5 +1,6 @@
 class Solution {
 public:
+//DP O(n2)
 //TC=O(3^n) //3 choice i.e all stars in input
   bool check(int st,string &s ,int n,int balance,vector<vector<int>>& dp ){
 
