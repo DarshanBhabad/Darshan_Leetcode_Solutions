@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minInsertions(string s) {
-     //O(n and O(1)
+     //O(n) and O(1)
      int n = s.size();
         int open = 0;
         int ans = 0;
