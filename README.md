@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
