@@ -1,5 +1,6 @@
 class Solution {
 public:
+// TC =O(n) and SC =O(n);
 void getprevsm(vector<int>&prevsm,vector<int>&nums,int n){
    stack<int>s;
   for(int i=0;i<n;i++){
@@ -15,7 +16,7 @@ void getprevsm(vector<int>&prevsm,vector<int>&nums,int n){
 }
 void getnextsmall(vector<int>&nextsmall,vector<int>&nums,int n){
  stack<int>s; //>= not used to solve overlapp betn prevsmall and getnext in case ex= 1,1 
- // needed subarrays will be 3 but >= will give 4 
+ // needed subarrays will be 3 but >= will give 4   to handle duplicates  
  for(int i=n-1;i>=0;i--){
        while(!s.empty()&& nums[s.top()]>nums[i]){
         s.pop();
@@ -42,7 +43,13 @@ void getprevgreater(vector<int>&prevgreater,vector<int>&nums,int n){
 void getnextgreater(vector<int>&nextgreater,vector<int>&nums,int n){
 stack<int>s;
   for(int i=n-1;i>=0;i--){
-       while(!s.empty()&& nums[s.top()]<nums[i]){
+       while(!s.empty()&& nums[s.top()]<nums[i]){  
+        //IMP
+        // If you use >= in both helpers, equal elements can be counted more than once. If you use > in both, some subarrays can also be counted more than once.
+//so >= and > and <= and <
+
+        //just < to handle duplicates ex 1,1,1 
+       // contribution of 1 as 1,1,1 counted only once in greater contriburtion functions 
         s.pop();
        }
        if(s.empty()) nextgreater[i]=n; //no prev small founded 
