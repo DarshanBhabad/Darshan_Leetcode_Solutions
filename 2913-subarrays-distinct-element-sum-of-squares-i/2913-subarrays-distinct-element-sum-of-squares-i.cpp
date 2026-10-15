@@ -1,5 +1,8 @@
 class Solution {
 public:
+//optimization is in part 2 - 2916
+
+//BRUTE FORCE O(n2*logn)
     int sumCounts(vector<int>& nums) {
         int n=nums.size();
         int ans=0;
@@ -15,5 +18,6 @@ public:
            
         }
         return ans;
+
     }
 };
