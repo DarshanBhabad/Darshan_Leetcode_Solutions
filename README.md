@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
