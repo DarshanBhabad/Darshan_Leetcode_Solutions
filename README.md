@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0322-coin-change](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0415-add-strings](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0735-asteroid-collision](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
