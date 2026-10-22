@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2126-destroying-asteroids](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2055-plates-between-candles](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2055-plates-between-candles/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
