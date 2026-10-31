@@ -1,6 +1,7 @@
 class Solution {
 public:
 //DP + recursion 
+//assume 1st cell as empty
 
   const int MOD = 1e9 + 7;
 
