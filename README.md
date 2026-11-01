@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
