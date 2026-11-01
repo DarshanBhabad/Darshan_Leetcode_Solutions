@@ -6,6 +6,8 @@ public:
         //becoz if we increment upto max these willl happen [1,2,3]  =>  [2,3,3] // so her we have to increment max also as -> onr move increent n - 1 elements simultaneously.
 // onr move increent n - 1 elements simultaneously.
 //there can be duplicate elements 
+
+//The reason minimum works is that every operation increases n-1 elements, which is equivalent to decreasing exactly 1 element by 1 relative to the others.
 int n=nums.size();
         int mini=0;
         for(int i=1;i<n;i++){
