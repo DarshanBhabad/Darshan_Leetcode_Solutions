@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
