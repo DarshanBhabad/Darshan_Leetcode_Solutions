@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0561-array-partition/) | Easy |
