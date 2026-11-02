@@ -1,7 +1,8 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        
+        //In one move, you can increment or decrement an element of the array by 1.  i.e you dont need to increment or decreemnt all elements unlike problem 453
+        //where we have to get all numbers close to minimum 
 
         //it is a greedy problem we have to sort the array as we need to make all 
         // equal either by increment or decrement we have to sort and find middle element 
