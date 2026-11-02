@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
+        
+
         //it is a greedy problem we have to sort the array as we need to make all 
         // equal either by increment or decrement we have to sort and find middle element 
         // as it will be the closer to min and max elements so both needs minimum oprations to be equal to it
@@ -20,17 +22,5 @@ int n=nums.size();
             ans+=nums[j]-nums[mid];
         }
         return ans;
-
-        // or instead using 2 loops just use abs value
-        // sort(nums.begin(), nums.end());
-
-        // int median = nums[nums.size() / 2];
-
-        // int moves = 0;
-
-        // for (int num : nums)
-        //     moves += abs(num - median);
-
-        // return moves;
     }
 };
