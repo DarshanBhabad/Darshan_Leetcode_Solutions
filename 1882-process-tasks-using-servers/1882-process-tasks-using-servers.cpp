@@ -46,7 +46,7 @@ long long j=0;  //current time
             auto c= q.top(); //pq but function name are as stack 
             ans.push_back(c.second);
             q.pop();
-            p.push({(long long) j+tasks[i],c});
+            p.push({j+tasks[i],c});
             //we need to push server again once its cooldown finished 
           
             
