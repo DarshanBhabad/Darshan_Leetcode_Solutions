@@ -1,6 +1,7 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
+        //probem 1267 also has same logic
         //O(M*N)
         int n=matrix.size();
         int m=matrix[0].size();
