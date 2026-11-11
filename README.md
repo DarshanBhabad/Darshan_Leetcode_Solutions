@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
