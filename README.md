@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
