@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2055-plates-between-candles](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2055-plates-between-candles/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
