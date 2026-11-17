@@ -17,6 +17,7 @@ public:
          // Start only from the beginning of a sequence
          if(s.find(e-1)==s.end()){ // as we traversing set one by one elements for ex [100,4,200,1,3,2]
           //for ele 1 we e=alredy counted 2,3,4  so when we go to 2,3 or 4 we just check if prev number exist for it as it will be the only one we who will count them
+          //iterate only from seq start
           while(s.find(t)!=s.end()){
             c++;
             
