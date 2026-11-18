@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minChanges(string s) {
-        
+        //wrong 
         // int n=s.size();
         // int mid=(n-1)/2; //st + e-st/2 st=0
         // int i=0;
@@ -12,9 +12,13 @@ public:
         //     i++;
         //     j++;
         // }
+
 int n=s.size();
 int c=0;
 //minimumm substring size ha sto be 2; even length 
+//we go greedy as  minimum possible length odf sub is 2 it is where we need minimum changes 
+// 10 require 1 change   comapre to 1100  here we need 2 changes to make 0000  instaed we breajk iyt to smaller 
+//11 00 we need 0 chnages its alredy one or more and each contains only 0's or 1's
 for(int i=1;i<n;i+=2){
     if(s[i]!=s[i-1]) c++;
 }
