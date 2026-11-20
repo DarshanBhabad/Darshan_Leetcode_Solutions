@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0143-reorder-list/) | Medium |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
