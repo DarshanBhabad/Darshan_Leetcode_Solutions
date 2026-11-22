@@ -10,6 +10,9 @@ public:
              if(s[i]=='b') b=true;
 
         }
+
+        // or just sort copy the string sort it and if sorted and original equal return true els efalse 
+        // as for a to appear before b it should be sorted
         return true;
     }
 };
