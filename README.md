@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2055-plates-between-candles](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2055-plates-between-candles/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
