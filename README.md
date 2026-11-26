@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
