@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0901-online-stock-span](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -863,5 +866,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/DarshanBhabad/Darshan_Leetcode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
